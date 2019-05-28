@@ -10,5 +10,9 @@
 	<classpathentry kind="lib" path="C:/Users/thang/OneDrive/Máy tính/Something/Courses/SS2/domainapptool.jar"/>
 	<classpathentry kind="lib" path="C:/Users/thang/OneDrive/Máy tính/Something/Courses/SS2/memorybasedjavacompiler.jar"/>
 	<classpathentry kind="lib" path="C:/Users/thang/OneDrive/Máy tính/Something/Courses/SS2/scrollabledesktop.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tongx/Desktop/domainapptool_20190115-teachingSpring2019 (1)/derby.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tongx/Desktop/domainapptool_20190115-teachingSpring2019 (1)/domainapptool.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tongx/Desktop/domainapptool_20190115-teachingSpring2019 (1)/memorybasedjavacompiler.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tongx/Desktop/domainapptool_20190115-teachingSpring2019 (1)/scrollabledesktop.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
