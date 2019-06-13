@@ -49,7 +49,7 @@ public class Watermelon {
 
   @DAttr(name = A_origin, type = Type.Domain, length = 20, optional = false)
   @DAssoc(ascName="watermelon-has-origin",role="watermelon",
-      ascType=AssocType.One2Many, endType=AssocEndType.One,
+      ascType=AssocType.One2Many, endType=AssocEndType.Many,
   associate=@Associate(type=Origin.class,cardMin=1,cardMax=1))
   private Origin origin;
 
